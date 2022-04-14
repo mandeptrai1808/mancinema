@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mancinema/static/css/main.e004ef95.css",
+    "main.js": "/mancinema/static/js/main.15d6838c.js",
+    "static/js/787.0fe84981.chunk.js": "/mancinema/static/js/787.0fe84981.chunk.js",
+    "index.html": "/mancinema/index.html",
+    "main.e004ef95.css.map": "/mancinema/static/css/main.e004ef95.css.map",
+    "main.15d6838c.js.map": "/mancinema/static/js/main.15d6838c.js.map",
+    "787.0fe84981.chunk.js.map": "/mancinema/static/js/787.0fe84981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e004ef95.css",
+    "static/js/main.15d6838c.js"
+  ]
+}
